@@ -1,8 +1,24 @@
-<h1>
-  hello
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+#  Hello 👋
 
+--- 
+
+### :man_technologist: About Me:
+- I am Adriel Jarred
+- Currently studying BS Computer Engineering in the Ateneo de Manila University
+
+---
+### Skills:
+- C++
+- Basic Julia
+- Basic HTML
+- Basic CSS
+- Basic Javascript
+
+---
+### My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajarred&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajarred&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 <!--
 **ajarred/ajarred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
