@@ -13,10 +13,10 @@
 ---
 ### :desktop_computer: Skills:
 - C++
-- Julia
-- HTML
-- CSS
-- Javascript
+- Basic Julia
+- Basic HTML
+- Basic CSS
+- Basic Javascript
 
 ---
 ### :bar_chart: My Stats :
