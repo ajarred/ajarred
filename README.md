@@ -11,7 +11,7 @@
 - Gmail: adjarredtan@gmail.com
 
 ---
-### Skills:
+### :desktop: Skills:
 - C++
 - Basic Julia
 - Basic HTML
@@ -19,7 +19,7 @@
 - Basic Javascript
 
 ---
-### My Stats :
+### :bar_chart: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajarred&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajarred&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
