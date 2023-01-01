@@ -4,7 +4,11 @@
 
 ### :man_technologist: About Me:
 - I am Adriel Jarred
-- Currently studying BS Computer Engineering in the Ateneo de Manila University
+- Currently studying BS Computer Engineering in the Ateneo de Manila University (Batch 2025)
+- I have a passion for computers and technology 
+- I have an interest in Web and Software Development 
+- I am willing to learn just about anything that sparks my interest
+- Gmail: adjarredtan@gmail.com
 
 ---
 ### Skills:
