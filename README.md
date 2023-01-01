@@ -11,7 +11,7 @@
 - Gmail: adjarredtan@gmail.com
 
 ---
-### :desktop: Skills:
+### :desktop_computer: Skills:
 - C++
 - Basic Julia
 - Basic HTML
